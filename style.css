@@ -1,0 +1,11 @@
+.highlighted {
+	background-color: blue;
+}
+
+.special-header header {
+	background-color: red;
+}
+
+div:not(.important) {
+	opacity: 0.7;
+}
