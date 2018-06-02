@@ -1,9 +1,22 @@
+body {
+	width: 500px;
+	margin: 0 auto;
+	font-family: 'Roboto', sans-serif;
+}
+
+div {
+	border: 1px solid gray;
+	width: 200px;
+	padding: 20px;
+	color: #E37242;
+}
+
 .highlighted {
-	background-color: blue;
+	background-color: #90C3D4;
 }
 
 .special-header header {
-	background-color: red;
+	background-color: #5F686B;
 }
 
 div:not(.important) {
